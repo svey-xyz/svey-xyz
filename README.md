@@ -1,4 +1,10 @@
-## Welcome!
+<div id="header" align="center">
+  <img src="https://cdn.sanity.io/images/hautfgiz/development/f83e36f8a6978ed169cd9b763c649f8ea39ff8cb-1966x1966.png?w=1200&auto=format" alt="svey logo" width="100" />
+  <h2 style=""><strong>Welcome!</strong></h2>
+  <img src="https://komarev.com/ghpvc/?username=svey-xyz&style=flat-square&color=blue" alt=""/>
+</div>
+<br>
+
 ### Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
 
 I'm an artist and network nerd, turned web developer; which puts me in a unique position to offer highly attuned design language **&** performant web based products.
@@ -17,6 +23,9 @@ I'm a JAMStack developer, and this is my stack of choice at the moment-
 
 But I also use these-
 <br><br>
+
+<a href="https://code.visualstudio.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F674621%2F71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png&f=1&nofb=1" alt="VSCode logo" height="40px"/></a>
+&nbsp;
 <a href="https://www.zsh.org/"><img src="https://miro.medium.com/max/900/1*oO43IFLliI6AxohJ2sc9Ug.jpeg" alt="ZSH logo" height="40px"/></a>
 &nbsp;
 <a href="https://www.figma.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Ffigma-logo.png&f=1&nofb=1" alt="Figma logo" height="40px"/></a>
