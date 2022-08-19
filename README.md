@@ -1,4 +1,5 @@
-# Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
+# Welcome!
+## Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
 
 I'm an artist and network nerd, turned web developer; which puts me in a unique position to offer highly attuned design language **&** performant web based products.
 
@@ -61,7 +62,14 @@ But I also use these-
 
 ## Let's Chat! 🙊
 
-I'm always happy to talk about anything, so reach out for any reason! You can find me here-
+I'm always happy to talk about anything, so reach out for any reason!
+<br> You can find me here-
+
+<a href="https://svey.xyz/"><img src="https://cdn.sanity.io/images/hautfgiz/development/f83e36f8a6978ed169cd9b763c649f8ea39ff8cb-1966x1966.png?w=1200&auto=format" alt="svey website logo" height="40px"/></a>
+&nbsp;
+<a href="mailto:x@svey.xyz"><img src="https://media0.giphy.com/media/YmhqSIaLh82K5lTEW5/giphy.gif?cid=ecf05e47z9ekr47ejoxg1dar324f9e94woyjfg0veai64r34&rid=giphy.gif&ct=s" alt="svey website logo" height="40px"/></a>
+&nbsp;
+
 
 
 
