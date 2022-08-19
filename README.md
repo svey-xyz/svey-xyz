@@ -1,17 +1,17 @@
-<div id="header" align="center">
-  <img src="https://cdn.sanity.io/images/hautfgiz/development/f83e36f8a6978ed169cd9b763c649f8ea39ff8cb-1966x1966.png?w=1200&auto=format" alt="svey logo" width="100" />
-  <h2 style=""><strong>Welcome!</strong></h2>
+<div id="header">
+  <img src="https://cdn.sanity.io/images/hautfgiz/development/f83e36f8a6978ed169cd9b763c649f8ea39ff8cb-1966x1966.png?w=1200&auto=format" alt="svey logo" width="100"/>
+  <h2><strong>Welcome!</strong></h2>
   <img src="https://komarev.com/ghpvc/?username=svey-xyz&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
 
-### Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
+## Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
 
 I'm an artist and network nerd, turned web developer; which puts me in a unique position to offer highly attuned design language **&** performant web based products.
 
 I am currently working on expanding my online presence 🧑‍💻, so don't worry if you can't fine much out there right now... More coming soon!
 
-### Tech Stack
+## Tech Stack
 
 I'm a JAMStack developer, and this is my stack of choice at the moment-
 <br><br>
@@ -64,8 +64,9 @@ But I also use these-
 &nbsp;
 <a href="https://www.mysql.com/"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2020%2F11%2FMySQL-logo.png&f=1&nofb=1" alt="MySQL logo" height="40px"/></a>
 &nbsp;
+<br>
 
-### Let's Chat! 🙊
+## Let's Chat! 🙊
 
 I'm always happy to talk about anything, so reach out for any reason! You can find me here-
 
