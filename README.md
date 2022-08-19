@@ -1,11 +1,4 @@
-<div id="header">
-  <img src="https://cdn.sanity.io/images/hautfgiz/development/f83e36f8a6978ed169cd9b763c649f8ea39ff8cb-1966x1966.png?w=1200&auto=format" alt="svey logo" width="100"/>
-  <h2><strong>Welcome!</strong></h2>
-  <img src="https://komarev.com/ghpvc/?username=svey-xyz&style=flat-square&color=blue" alt=""/>
-</div>
-<br>
-
-## Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
+# Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
 
 I'm an artist and network nerd, turned web developer; which puts me in a unique position to offer highly attuned design language **&** performant web based products.
 
