@@ -1,6 +1,6 @@
 ## Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
 
-I'm an artist and network nerd, turned web developer; which puts me in a unique position to offer highly attuned design language **&** performant web based products.
+I'm an artist and network nerd, turned web developer; which puts me in a unique position to offer a highly attuned design language **&** performant web based products.
 
 I am currently working on expanding my online presence 🧑‍💻, so don't worry if you can't fine much out there right now... More coming soon!
 <br><br>
