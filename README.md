@@ -43,13 +43,17 @@ But I also use these-
 &nbsp;
 <a href="https://tailwindcss.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flabinator.com%2Fwordpress-marketplace%2Fwp-content%2Fuploads%2F2020%2F07%2FTailwind-CSS-Logo.png&f=1&nofb=1" alt="TailwindCSS logo" height="40px"/></a>
 &nbsp;
-
-
 <a href="https://nodejs.org/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NodeJS logo" height="40px"/></a>
 &nbsp;
 <a href="https://www.npmjs.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fandrejgajdos.com%2Fwp-content%2Fuploads%2F2019%2F11%2Fnpm-logo.png%3Fx24361&f=1&nofb=1" alt="NPM logo" height="40px"/></a>
 &nbsp;
 <a href="https://www.docker.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands%2F512%2F97_Docker_logo_logos-512.png&f=1&nofb=1" alt="Docker logo" height="40px"/></a>
+&nbsp;
+<a href="https://www.wordpress.org/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0c%2FWordpress_logo_8.png&f=1&nofb=1" alt="Wordpress logo" height="40px"/></a>
+&nbsp;
+<a href="https://www.php.net/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fphp%2Fphp_PNG35.png&f=1&nofb=1" alt="Wordpress logo" height="40px"/></a>
+&nbsp;
+<a href="https://www.mysql.com/"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2020%2F11%2FMySQL-logo.png&f=1&nofb=1" alt="MySQL logo" height="40px"/></a>
 &nbsp;
 
 ### Let's Chat! 🙊
