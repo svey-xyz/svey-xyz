@@ -1,10 +1,9 @@
-# Welcome!
 ## Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
 
 I'm an artist and network nerd, turned web developer; which puts me in a unique position to offer highly attuned design language **&** performant web based products.
 
 I am currently working on expanding my online presence 🧑‍💻, so don't worry if you can't fine much out there right now... More coming soon!
-
+<br><br>
 ## Tech Stack
 
 I'm a JAMStack developer, and this is my stack of choice at the moment-
@@ -58,7 +57,7 @@ But I also use these-
 &nbsp;
 <a href="https://www.mysql.com/"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2020%2F11%2FMySQL-logo.png&f=1&nofb=1" alt="MySQL logo" height="40px"/></a>
 &nbsp;
-<br>
+<br><br>
 
 ## Let's Chat! 🙊
 
