@@ -33,11 +33,11 @@ But I also use these-
 &nbsp;
 <a href="https://www.typescriptlang.org/"><img src="../assets/ToolLogos/typescript-logo.png" alt="Typescript logo" height="40px"/></a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="../assets/ToolLogos/javscript-logo.png" alt="Javascript logo" height="40px"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="../assets/ToolLogos/javascript-logo.png" alt="Javascript logo" height="40px"/></a>
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="../assets/ToolLogos/css-logo.png" alt="CSS3 logo" height="40px"/></a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="../assets/ToolLogos/HTML%-logo.png" alt="HTML5 logo" height="40px"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="../assets/ToolLogos/HTML5-logo.png" alt="HTML5 logo" height="40px"/></a>
 &nbsp;
 <a href="https://webpack.js.org/"><img src="../assets/ToolLogos/webpack-logo.png" alt="Webpack logo" height="40px"/></a>
 &nbsp;
