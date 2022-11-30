@@ -2,7 +2,7 @@
 
 I'm an artist and network nerd, turned web developer; which puts me in a unique position to offer a highly attuned design language **&** performant web based products.
 
-I am currently working on expanding my online presence 🧑‍💻, so don't worry if you can't fine much out there right now... More coming soon!
+I am currently working on expanding my online presence 🧑‍💻, so don't worry if you can't find much out there on me right now... More coming soon!
 <br><br>
 ## Tech Stack
 
