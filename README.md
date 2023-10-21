@@ -8,15 +8,17 @@ I am currently working on expanding my online presence 🧑‍💻, so don't wor
 
 I'm a JAMStack developer, and this is my stack of choice at the moment-
 <br><br>
-<a href="https://www.11ty.dev/"><img src="../assets/ToolLogos/11ty-logo.png" alt="11ty logo" height="40px"/></a>
+<a href="https://nextjs.org"><img src="../assets/ToolLogos/NextJS-logo.png" alt="NextJS logo" height="40px"/></a>
 &nbsp;
-<a href="https://workers.cloudflare.com/"><img src="../assets/ToolLogos/cloudflare-workers-logo.png" alt="Cloudflare Workers logo" height="40px"/></a>
+<a href="https://tailwindcss.com/"><img src="../assets/ToolLogos/TailwindCSS-logo.png" alt="TailwindCSS logo" height="40px"/></a>
 &nbsp;
 <a href="https://www.sanity.io/"><img src="../assets/ToolLogos/sanity-io-logo.webp" alt="Sanity.io logo" height="40px"/></a>
 
 But I also use these-
 <br><br>
 
+<a href="https://react.dev"><img src="../assets/ToolLogos/React-logo.png" alt="React logo" height="40px"/></a>
+&nbsp;
 <a href="https://code.visualstudio.com/"><img src="../assets/ToolLogos/VSCode-logo.png" alt="VSCode logo" height="40px"/></a>
 &nbsp;
 <a href="https://www.zsh.org/"><img src="../assets/ToolLogos/zsh-logo.jpeg" alt="ZSH logo" height="40px"/></a>
@@ -43,8 +45,6 @@ But I also use these-
 &nbsp;
 <a href="https://postcss.org/"><img src="../assets/ToolLogos/PostCSS-Logo.png" alt="PostCSS logo" height="40px"/></a>
 &nbsp;
-<a href="https://tailwindcss.com/"><img src="../assets/ToolLogos/TailwindCSS-logo.png" alt="TailwindCSS logo" height="40px"/></a>
-&nbsp;
 <a href="https://nodejs.org/"><img src="../assets/ToolLogos/NodeJS-logo.png" alt="NodeJS logo" height="40px"/></a>
 &nbsp;
 <a href="https://www.npmjs.com/"><img src="../assets/ToolLogos/NPM-logo.png" alt="NPM logo" height="40px"/></a>
@@ -56,6 +56,10 @@ But I also use these-
 <a href="https://www.php.net/"><img src="../assets/ToolLogos/PHP-logo.png" alt="PHP logo" height="40px"/></a>
 &nbsp;
 <a href="https://www.mysql.com/"><img src="../assets/ToolLogos/MySQL-Logo.png" alt="MySQL logo" height="40px"/></a>
+&nbsp;
+<a href="https://www.11ty.dev/"><img src="../assets/ToolLogos/11ty-logo.png" alt="11ty logo" height="40px"/></a>
+&nbsp;
+<a href="https://workers.cloudflare.com/"><img src="../assets/ToolLogos/cloudflare-workers-logo.png" alt="Cloudflare Workers logo" height="40px"/></a>
 &nbsp;
 <br><br>
 
