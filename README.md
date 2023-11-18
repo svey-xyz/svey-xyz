@@ -1,8 +1,10 @@
 ## Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
 
-I'm an artist and network nerd, turned web developer; which puts me in a unique position to offer a highly attuned design language **&** performant web based products.
+I am a digital media artist, and web developer.
 
-I am currently working on expanding my online presence 🧑‍💻, so don't worry if you can't find much out there on me right now... More coming soon!
+My field of work covers everything from large scale interactive public installations, to more humble independent websites. My background is in visual arts and software development and has provided me with both the vision, and technical know-how, to provide unique digital experiences.
+
+If you want to learn more about the kind of work that I offer, you can take a 👀 around my site, checkout my GitHub, or reach out to me by email at x@svey.xyz ✍️. I am currently available for contract, and I am eager to meet you and help you create your next digital experience!
 <br><br>
 ## Tech Stack
 
