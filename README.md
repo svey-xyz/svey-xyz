@@ -72,7 +72,7 @@ I'm always happy to talk about anything, so reach out for any reason!
 
 <a href="https://svey.xyz/"><img src="../assets/ConnectLogos/xyz-clear.png" alt="svey website logo" height="40px"/></a>
 &nbsp;
-<a href="mailto:x@svey.xyz"><img src="../assets/ConnectLogos/flowermail.gif" alt="svey website logo" height="40px" width="40px"/></a>
+<a href="mailto:dev@svey.xyz"><img src="../assets/ConnectLogos/flowermail.gif" alt="svey website logo" height="40px" width="40px"/></a>
 &nbsp;
 
 
