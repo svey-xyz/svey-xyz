@@ -67,7 +67,7 @@ But I also use these-
 
 ## Let's Chat! 🙊
 
-I'm always happy to talk about anything, so reach out for any reason!
+I'm always happy to talk, so reach out for any reason!
 <br> You can find me here-
 
 <a href="https://svey.xyz/"><img src="../assets/ConnectLogos/xyz-clear.png" alt="svey website logo" height="40px"/></a>
