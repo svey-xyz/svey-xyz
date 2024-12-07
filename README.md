@@ -1,6 +1,6 @@
 ## Hey! 👋 I'm [@svey](https://svey.xyz) online, and `Hayden` if you know me 🌎.
 
-I am a web developer, and digital media artist.
+I am a full stack web developer, and digital media artist.
 
 My field of work covers everything from large scale interactive public installations, to more humble independent websites. My background is in visual arts and software development- which has provided me with both the vision, and technical know-how, to provide unique digital experiences.
 
